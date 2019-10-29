@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptocBTCApp", "CryptocBTCApp\CryptocBTCApp.csproj", "{2A403C90-658E-4866-9E9C-6F22909C79A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoComparePCL", "CryptoComparePCL\CryptoComparePCL.csproj", "{42EA831F-29EE-41F3-8BF1-365FF489D284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A403C90-658E-4866-9E9C-6F22909C79A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{42EA831F-29EE-41F3-8BF1-365FF489D284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EA831F-29EE-41F3-8BF1-365FF489D284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EA831F-29EE-41F3-8BF1-365FF489D284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EA831F-29EE-41F3-8BF1-365FF489D284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D99F82-BB44-49F5-B9F0-32EA5B2790C1}
+	EndGlobalSection
+EndGlobal
