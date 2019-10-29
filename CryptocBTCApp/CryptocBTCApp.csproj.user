@@ -3,6 +3,6 @@
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <SelectedDevice>Android Google Pixel</SelectedDevice>
+    <SelectedDevice>Samsung SM-A305FN</SelectedDevice>
   </PropertyGroup>
 </Project>

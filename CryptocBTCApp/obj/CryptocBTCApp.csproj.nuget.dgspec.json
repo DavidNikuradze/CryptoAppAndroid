@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptocBTCApp\\CryptocBTCApp.csproj": {}
+    "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptocBTCApp\\CryptocBTCApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptocBTCApp\\CryptocBTCApp.csproj": {
+    "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptocBTCApp\\CryptocBTCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptocBTCApp\\CryptocBTCApp.csproj",
+        "projectUniqueName": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptocBTCApp\\CryptocBTCApp.csproj",
         "projectName": "CryptocBTCApp",
-        "projectPath": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptocBTCApp\\CryptocBTCApp.csproj",
-        "packagesPath": "C:\\Users\\TecService\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptocBTCApp\\obj\\",
+        "projectPath": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptocBTCApp\\CryptocBTCApp.csproj",
+        "packagesPath": "C:\\Users\\davit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptocBTCApp\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\TecService\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptoComparePCL\\CryptoComparePCL.csproj": {
-                "projectPath": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptoComparePCL\\CryptoComparePCL.csproj"
+              "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptoComparePCL\\CryptoComparePCL.csproj": {
+                "projectPath": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptoComparePCL\\CryptoComparePCL.csproj"
               }
             }
           }
@@ -44,19 +44,23 @@
           "dependencies": {
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.CustomTabs": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.Design": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.3.1, )"
             },
             "Xamarin.FFImageLoading": {
               "target": "Package",
@@ -66,12 +70,12 @@
         }
       }
     },
-    "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptoComparePCL\\CryptoComparePCL.csproj": {
+    "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptoComparePCL\\CryptoComparePCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptoComparePCL\\CryptoComparePCL.csproj",
+        "projectUniqueName": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptoComparePCL\\CryptoComparePCL.csproj",
         "projectName": "CryptoComparePCL",
-        "projectPath": "C:\\Users\\TecService\\source\\repos\\CryptocBTCApp\\CryptoComparePCL\\CryptoComparePCL.csproj"
+        "projectPath": "C:\\Users\\davit\\OneDrive\\Desktop\\CryptoAppAndroid\\CryptoComparePCL\\CryptoComparePCL.csproj"
       },
       "frameworks": {
         "monoandroid90": {}

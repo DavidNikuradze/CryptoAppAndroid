@@ -1,9 +1,8 @@
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\bin\Debug\CryptoComparePCL.dll
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\bin\Debug\CryptoComparePCL.pdb
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\bin\Debug\Newtonsoft.Json.dll
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\bin\Debug\Newtonsoft.Json.xml
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\obj\Debug\CryptoComparePCL.csproj.CoreCompileInputs.cache
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\obj\Debug\CryptoComparePCL.csproj.CopyComplete
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\obj\Debug\CryptoComparePCL.dll
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\obj\Debug\CryptoComparePCL.pdb
-C:\Users\TecService\source\repos\CryptocBTCApp\CryptoComparePCL\obj\Debug\CryptoComparePCL.csprojAssemblyReference.cache
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\bin\Debug\CryptoComparePCL.dll
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\bin\Debug\CryptoComparePCL.pdb
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\obj\Debug\CryptoComparePCL.csprojAssemblyReference.cache
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\obj\Debug\CryptoComparePCL.csproj.CopyComplete
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\obj\Debug\CryptoComparePCL.dll
+C:\Users\davit\OneDrive\Desktop\CryptoAppAndroid\CryptoComparePCL\obj\Debug\CryptoComparePCL.pdb

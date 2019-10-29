@@ -59,7 +59,7 @@ namespace CryptoComparePCL.Classes.Model
     {
     }
 
-    public class RootObject
+    public class CoinsInfoRoot
     {
         public string Message { get; set; }
         public int Type { get; set; }

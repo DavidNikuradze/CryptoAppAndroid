@@ -29,21 +29,17 @@ namespace CryptoComparePCL.Classes
             }
         }
 
+        //public static async Task<RootObject> GetCryptos(String USD)
+        //{
+        //    using (HttpClient http = new HttpClient())
+        //    {
+        //        string jJson = await http.GetStringAsync($"https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD,EUR&e=Coinbase&extraParams=USD");
 
-        public static async Task<RootObject> GetCryptos(String USD)
-        {
-            using (HttpClient http = new HttpClient())
-            {
-                string jJson = await http.GetStringAsync($"https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD,EUR&e=Coinbase&extraParams=USD");
+        //        return await Task.Run(() => JsonConvert.DeserializeObject<RootObject>(jJson));
 
-                return await Task.Run(() => JsonConvert.DeserializeObject<RootObject>(jJson));
+        //    }
 
-
-               
-              
-            }
-            
-        }
+        //}
 
 
 

@@ -28,10 +28,11 @@ namespace CryptoComparePCL.Classes.Model
         public string CryptoNShort { get; set; }
         public List<Datum> Data { get; set; }
 
-        public class RootObject
-        {
-            public double USD { get; set; }
-            public double EUR { get; set; }
-        }
+    }
+ 
+    public class CryproRoot
+    {
+        public double USD { get; set; }
+        public double EUR { get; set; }
     }
 }

@@ -32,22 +32,20 @@ namespace CryptocBTCApp
         protected async override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
 
             var coin = await GetJsonObject.GetCrypto(Valute: " ", Crypto: " ");
 
-           
 
 
 
-            RecyclerCrypto Adapter = new RecyclerCrypto(coin.Data);
-            RecyclerView recycler = FindViewById<RecyclerView>(Resource.Id.recyclerView1);
-            recycler.SetLayoutManager(new LinearLayoutManager(this));
-            recycler.SetAdapter(Adapter);
 
-           
+            //RecyclerCrypto Adapter = new RecyclerCrypto(coin.Data);
+            //RecyclerView recycler = FindViewById<RecyclerView>(Resource.Id.recyclerView1);
+            //recycler.SetLayoutManager(new LinearLayoutManager(this));
+            //recycler.SetAdapter(Adapter);
+
+
 
         }
       
